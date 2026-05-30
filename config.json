@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authralidate",
+        "uuid": 2691780,
+        "checksum": "pfwhk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
